@@ -22,7 +22,7 @@ Italian parliamentary parties are often portrayed as monolithic blocs, but roll-
 
 ```bash
 # Clone
-git clone https://github.com/lucymoto/italian-parliament-analysis.git
+git clone https://github.com/LucyMoto/italian-parliament-analysis.git
 cd italian-parliament-analysis
 
 # Create environment
