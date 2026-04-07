@@ -11,9 +11,14 @@ build/
 # Data (regenerable via scraper)
 data/raw/*.csv
 data/raw/*.json
+data/raw/*.txt
+data/processed/*.parquet
+notebooks/data/processed/*.parquet
 
 # Jupyter
 .ipynb_checkpoints/
+notebooks/*.pdf
+notebooks/*.html
 
 # OS
 .DS_Store
