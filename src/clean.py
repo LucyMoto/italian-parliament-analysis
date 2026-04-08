@@ -11,11 +11,11 @@ Output: data/processed/votes_clean.parquet
 
 import pandas as pd
 import numpy as np
-from pathlib import Path
 import time
 
-RAW_FILE = Path('data/raw/camera_votes_full.csv')
-PROCESSED_DIR = Path('data/processed')
+from src.config import RAW_DIR, PROCESSED_DIR
+
+RAW_FILE = RAW_DIR / 'camera_votes_full.csv'
 PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
 
 # ── 1. Load ──────────────────────────────────────────────────
