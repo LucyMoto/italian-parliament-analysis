@@ -7,7 +7,9 @@ __pycache__/
 dist/
 build/
 .eggs/
-outputs/
+outputs/*.docx
+outputs/*.png
+
 
 # Data (regenerable via scraper)
 data/raw/*.csv
