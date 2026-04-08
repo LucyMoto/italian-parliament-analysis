@@ -1,0 +1,16 @@
+==================================================
+ANALYSIS COMPLETE
+==================================================
+
+Deputies:     413
+Edges:        18541
+Clusters:     3 (+0 noise)
+Votes:        17309
+
+UMAP coordinates computed (correlation metric)
+DBSCAN clustering applied
+
+Cluster composition:
+  Cluster 0 (62 deputies): M5S: 50, AVS: 10, AZIONE-IV: 1, M-ALT: 1
+  Cluster 1 (271 deputies): FDI: 120, LEGA: 68, FI-PPE: 47, AZIONE-IV: 20, NM-M-C: 9, M-MIN: 4, M-ALT: 2, M5S: 1
+  Cluster 2 (80 deputies): PD-IDP: 75, M-+EUR: 3, M5S: 2
